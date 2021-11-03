@@ -21,3 +21,7 @@
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
+src/App.test.js
+public/logo192.png
+public/favicon.ico
+public/logo192.png

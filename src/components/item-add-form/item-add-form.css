@@ -1,0 +1,30 @@
+/* .bottom-panel {
+    margin-top: 20px;
+  }
+  
+  .bottom-panel .new-post-label {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+  }
+
+  .item-add-from input{
+   margin-right: 5px;
+  } */
+
+
+  .bottom-panel {
+    margin-top: 20px;
+  }
+  
+  .bottom-panel .new-post-label {
+    width: auto;
+    flex-grow: 1;
+    margin-right: 3px;
+  }
+  
+
+  .btn-my {
+    background-color: rgb(70, 212, 82);
+    
+  }
